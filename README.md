@@ -12,8 +12,8 @@ Xbox- or PlayStation-style gamepad recommended. Keyboard and mouse also work.
 
 ## Download and play (Windows 10/11, 64-bit)
 
-**Newest: [1.1.0 PREVIEW](https://github.com/uzig7181/grey-flight-release/releases/tag/v1.1.0-preview)** (post-jam work in progress, with an installer)
-1. Download `GreyFlight_Setup_1.1.0-preview.exe` and run it. You get a Start menu entry, an optional desktop shortcut, and a clean uninstall.
+**Newest: [GREY FLIGHT 1.2](https://github.com/uzig7181/grey-flight-release/releases/latest)** (first post-jam release, with an installer)
+1. Download `GreyFlight_Setup_1.2.0.exe` and run it. You get a Start menu entry, an optional desktop shortcut, and a clean uninstall.
 2. The installer is not code-signed yet. If SmartScreen warns, click **More info > Run anyway**.
 3. Start **Grey Flight**, then pick **FREE STRIKE** for the main mode.
 

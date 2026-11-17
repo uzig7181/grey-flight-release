@@ -39,7 +39,7 @@ Dev logs on itch.io:
 - The trailer was cut from gameplay recordings.
 - **8:38 PM: submitted**. Build 5 is the jam version, v1.0-jam.
 
-### Mon Nov 16: post-jam, the 1.1.0 preview
+### Mon Nov 16: post-jam, release 1.2
 - **RAZOR rebuilt** part by part: about 30 design iterations from the director's notes, then polygon camo, moving tailerons and rudders, and new exhaust glow.
 
 ![RAZOR v36](images/razor_v36_views.jpg)
@@ -63,7 +63,7 @@ Dev logs on itch.io:
 
 ![Key art](images/keyart_v11.jpg)
 
-- **1.1.0 PREVIEW** (test build 25) was published here with an installer.
+- **Release 1.2** (test build 25) was published here with an installer.
 
 ## What is coming next
 
